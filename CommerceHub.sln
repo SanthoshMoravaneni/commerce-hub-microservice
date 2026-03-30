@@ -1,0 +1,11 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/CommerceHub.Api/CommerceHub.Api.csproj" />
+    <Project Path="src/CommerceHub.Application/CommerceHub.Application.csproj" />
+    <Project Path="src/CommerceHub.Domain/CommerceHub.Domain.csproj" />
+    <Project Path="src/CommerceHub.Infrastructure/CommerceHub.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/CommerceHub.Tests/CommerceHub.Tests.csproj" />
+  </Folder>
+</Solution>
