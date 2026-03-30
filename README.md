@@ -216,14 +216,15 @@ This will start:
 
 # Access Points
 
-### Swagger UI
+### Swagger UI (locally)
 
 http://localhost:8080/swagger
 
-### RabbitMQ Dashboard
+### RabbitMQ Dashboard ((locally))
 
-http://localhost:15672
+http://localhost:15672 
 Username: guest
+
 Password: guest
 
 ---
