@@ -80,7 +80,7 @@ Unit tests validate the critical parts of the system:
 
 ---
 
-# 🔄 How the system works (End-to-End Flow)
+# How the system works (End-to-End Flow)
 
 Let’s walk through what happens when a user places an order:
 
@@ -151,7 +151,7 @@ The API returns the created order with:
 
 ---
 
-# 🧪 Example Flow You Can Test
+#Example Flow You Can Test
 
 1. Seed products into MongoDB
 2. Call checkout endpoint
