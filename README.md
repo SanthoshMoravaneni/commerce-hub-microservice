@@ -220,7 +220,7 @@ This will start:
 
 http://localhost:8080/swagger
 
-### RabbitMQ Dashboard ((locally))
+### RabbitMQ Dashboard (locally)
 
 http://localhost:15672 
 Username: guest
